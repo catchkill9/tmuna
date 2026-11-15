@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <!-- 10-point sun star -->
+  <polygon fill="#fbb733" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="miter"
+    points="200,10 236,95 330,50 300,140 390,170 300,215 345,310 245,280 215,390 175,290 75,345 110,250 15,215 105,160 60,70 160,105"/>
+  <!-- left eye -->
+  <path d="M120 175 Q150 168 182 176 L178 190 Q172 222 148 222 Q126 220 124 190 Z" fill="#fff" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M140 182 Q152 205 166 182 Z" fill="#111"/>
+  <path d="M114 176 Q150 166 188 175" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+  <!-- right eye -->
+  <path d="M210 176 Q242 168 272 175 L270 190 Q266 222 244 222 Q220 220 214 190 Z" fill="#fff" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M232 182 Q244 205 258 182 Z" fill="#111"/>
+  <path d="M204 175 Q242 166 280 174" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+  <!-- smirk -->
+  <path d="M160 262 Q205 270 232 248" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+  <path d="M226 236 Q236 246 244 254" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+</svg>
