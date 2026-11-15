@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="160 0 300 400">
+  <rect x="0" y="0" width="600" height="600" fill="#d6d6d4"/>
   <!-- sun: 10-point star -->
   <polygon fill="#fdb52f" stroke="#141414" stroke-width="5" stroke-linejoin="miter"
     points="329.3,21.5 375.2,131 487.3,91.9 460.2,207.5 573.9,241.8 484,319.3 555.8,413.9 437.5,423.8 440,542.5 338.5,481 270.7,578.5 224.8,469 112.7,508.1 139.8,392.5 26.1,358.2 116,280.7 44.2,186.1 162.5,176.2 160,57.5 261.5,119"/>
