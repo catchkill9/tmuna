@@ -4,23 +4,21 @@
   <polygon fill="#fdb52f" stroke="#141414" stroke-width="5" stroke-linejoin="miter"
     points="329.3,21.5 375.2,131 487.3,91.9 460.2,207.5 573.9,241.8 484,319.3 555.8,413.9 437.5,423.8 440,542.5 338.5,481 270.7,578.5 224.8,469 112.7,508.1 139.8,392.5 26.1,358.2 116,280.7 44.2,186.1 162.5,176.2 160,57.5 261.5,119"/>
 
-  <!-- left eye: half-closed, bored look -->
-  <clipPath id="le"><path d="M196 262 L278 262 Q276 306 237 308 Q199 306 196 262 Z"/></clipPath>
-  <path d="M196 262 L278 262 Q276 306 237 308 Q199 306 196 262 Z" fill="#fff" stroke="#141414" stroke-width="5" stroke-linejoin="round"/>
-  <circle cx="232" cy="262" r="22" fill="#111" clip-path="url(#le)"/>
-  <path d="M184 264 Q237 252 292 262" fill="none" stroke="#141414" stroke-width="8" stroke-linecap="round"/>
-  <path d="M184 264 L176 258" stroke="#141414" stroke-width="4" stroke-linecap="round"/>
-  <path d="M292 262 L300 256" stroke="#141414" stroke-width="4" stroke-linecap="round"/>
+  <!-- left eye: wide white half-moon, big pupil hanging from a heavy lid -->
+  <clipPath id="le"><path d="M197 262 L287 260 Q289 300 255 311 Q215 318 199 290 Q196 276 197 262 Z"/></clipPath>
+  <path d="M197 262 L287 260 Q289 300 255 311 Q215 318 199 290 Q196 276 197 262 Z" fill="#fff" stroke="#141414" stroke-width="4" stroke-linejoin="round"/>
+  <ellipse cx="240" cy="259" rx="21" ry="27" fill="#111" clip-path="url(#le)"/>
+  <path d="M183 261 Q240 255 292 257" fill="none" stroke="#141414" stroke-width="6" stroke-linecap="round"/>
+  <path d="M187 260 L180 252" stroke="#141414" stroke-width="3" stroke-linecap="round"/>
 
   <!-- right eye -->
-  <clipPath id="re"><path d="M318 264 L400 262 Q398 308 360 310 Q321 308 318 264 Z"/></clipPath>
-  <path d="M318 264 L400 262 Q398 308 360 310 Q321 308 318 264 Z" fill="#fff" stroke="#141414" stroke-width="5" stroke-linejoin="round"/>
-  <circle cx="352" cy="263" r="22" fill="#111" clip-path="url(#re)"/>
-  <path d="M306 265 Q360 252 414 260" fill="none" stroke="#141414" stroke-width="8" stroke-linecap="round"/>
-  <path d="M306 265 L298 260" stroke="#141414" stroke-width="4" stroke-linecap="round"/>
-  <path d="M414 260 L422 254" stroke="#141414" stroke-width="4" stroke-linecap="round"/>
+  <clipPath id="re"><path d="M323 259 L413 256 Q414 296 380 309 Q340 316 325 288 Q322 274 323 259 Z"/></clipPath>
+  <path d="M323 259 L413 256 Q414 296 380 309 Q340 316 325 288 Q322 274 323 259 Z" fill="#fff" stroke="#141414" stroke-width="4" stroke-linejoin="round"/>
+  <ellipse cx="366" cy="256" rx="21" ry="27" fill="#111" clip-path="url(#re)"/>
+  <path d="M310 258 Q365 252 418 248" fill="none" stroke="#141414" stroke-width="6" stroke-linecap="round"/>
+  <path d="M415 249 L423 242" stroke="#141414" stroke-width="3" stroke-linecap="round"/>
 
   <!-- smirk with a little cheek line -->
-  <path d="M250 352 Q292 362 330 338" fill="none" stroke="#141414" stroke-width="5" stroke-linecap="round"/>
-  <path d="M320 324 Q330 332 336 346" fill="none" stroke="#141414" stroke-width="5" stroke-linecap="round"/>
+  <path d="M263 362 Q318 360 360 336" fill="none" stroke="#141414" stroke-width="4" stroke-linecap="round"/>
+  <path d="M347 320 Q362 328 370 343" fill="none" stroke="#141414" stroke-width="4" stroke-linecap="round"/>
 </svg>
